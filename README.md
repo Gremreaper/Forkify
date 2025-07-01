@@ -24,7 +24,7 @@
     ├── <code>script.js</code> – Main JavaScript logic<br>
     ├── <code>visit.js</code> – Tracking or session logic (if used)<br>
     ├── <code>style.css</code> – Styling file<br>
-    ├── <code>img/</code> – Images for the project<br>
+    ├── <code>Screenshot_images/</code> – Images for the project<br>
     ├── <code>src/</code> – Source files (if any modules/components)<br>
     ├── <code>package.json</code> – Project metadata and dependencies<br>
     ├── <code>package-lock.json</code> – Dependency lockfile<br>
