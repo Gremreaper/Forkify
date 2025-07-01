@@ -41,7 +41,11 @@
   <p><a href="https://forkify-one-eta.vercel.app/" target="_blank">Click here to try it live</a></p>
 
   <h2>📸 Preview</h2>
-  <img src="img/demo.png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
+  <img src="/Screenshot_images/Screenshot (1003).png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
+ <img src="/Screenshot_images/Screenshot (1004).png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
+ <img src="/Screenshot_images/Screenshot (1005).png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
+ <img src="/Screenshot_images/Screenshot (1006).png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
+ <img src="/Screenshot_images/Screenshot (1007).png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
 
   <h2>📦 Tech Stack</h2>
   <ul>
