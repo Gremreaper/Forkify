@@ -32,13 +32,13 @@
 
   <h2>🚀 How to Run</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/forkify-project</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/Gremreaper/forkify-project</code></li>
     <li>Open <code>index.html</code> in any browser</li>
     <li>Search and explore recipes!</li>
   </ol>
 
   <h2>🌐 Live Demo</h2>
-  <p><a href="https://your-live-url.netlify.app/" target="_blank">Click here to try it live</a></p>
+  <p><a href="https://forkify-one-eta.vercel.app/" target="_blank">Click here to try it live</a></p>
 
   <h2>📸 Preview</h2>
   <img src="img/demo.png" alt="Forkify App Screenshot" style="width:100%;max-width:600px;border:1px solid #ccc;">
